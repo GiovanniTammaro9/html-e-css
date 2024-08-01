@@ -4,3 +4,27 @@ p {
     color:blue;
     text-align: right;
 }
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: blanchedalmond;
+}
+
+h4 {
+    color: black;
+}
+
+h5 {
+    color: bisque;
+}
+
+h6 {
+    color: beige;
+}
