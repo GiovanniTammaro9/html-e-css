@@ -41,3 +41,8 @@ p.testobianco.grassetto{color: antiquewhite; font-weight: bold;}
     text-align: center;
     color: blue;
 }
+
+h2,h3,h4 {
+    text-align: center;
+    color: brown;
+}
