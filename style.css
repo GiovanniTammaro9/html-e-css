@@ -36,3 +36,8 @@ h6 {
 }
 
 p.testobianco.grassetto{color: antiquewhite; font-weight: bold;}
+
+*{
+    text-align: center;
+    color: blue;
+}
