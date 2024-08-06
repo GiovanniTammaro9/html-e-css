@@ -59,3 +59,13 @@ a.bianco:hover{
     content: "leggende";
     color: blue;
 }
+
+#myid{
+    background-color: blue;
+}
+.myclass{
+    background-color: blueviolet;
+}
+p{
+    background-color: brown !important;
+}
