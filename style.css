@@ -31,4 +31,6 @@ h6 {
 
 #titolo {color: blue;}
 
-.center{color: brown;}
+.center{color: brown;
+        font-size: 30px;
+}
