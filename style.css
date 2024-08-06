@@ -46,3 +46,12 @@ h2,h3,h4 {
     text-align: center;
     color: brown;
 }
+
+a.bianco:link{
+    color: antiquewhite;
+    text-decoration: none;
+    font-weight: bold;
+}
+a.bianco:hover{
+    color: blue;
+}
