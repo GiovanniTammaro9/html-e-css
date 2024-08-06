@@ -69,3 +69,7 @@ a.bianco:hover{
 p{
     background-color: brown !important;
 }
+.miaclasse{
+    text-align: center;
+    color: blue;
+}
