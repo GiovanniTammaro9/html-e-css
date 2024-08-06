@@ -55,3 +55,7 @@ a.bianco:link{
 a.bianco:hover{
     color: blue;
 }
+.lista li:last-child{
+    content: "leggende";
+    color: blue;
+}
